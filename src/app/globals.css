@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* RESET PRO
+body {
+  @apply bg-gray-50 text-gray-800;
+}
+
+/* Mejora tipografía */
+/* h1, h2, h3 {
+  @apply font-semibold;
+} */ 
